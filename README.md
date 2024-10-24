@@ -16,7 +16,8 @@ The **Parking Manager System** is an application designed to manage a network of
 
 ## Architecture
 
-![Architecture Diagram](documentatie-ghid-utlizare-raport/diagram.JPG)
+![Architecture Diagram](ParkingManagerSystem/diagram.JPG)
+
 
 ## Features/Usage Examples
 - Configure a parking lot and add it to a network of parking lots.
